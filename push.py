@@ -2,7 +2,7 @@ import subprocess as cmd
 
 cp = cmd.run("git add -A ", check=True, shell=True)
 
-response = input("Default message = 'update repository'?(y/n)\n")
+response = input("m = 'update repository'?(y/n)\n")
 message = "update repository"
 
 if response.startswith('n'):
