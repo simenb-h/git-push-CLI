@@ -1,4 +1,4 @@
-# git-push-CLI
+# Push fast to GitHub - CLI tool 
 
 - Download the file and place it at the root of your project. 
 - When you are ready to push to github, type this in the terminal: 
